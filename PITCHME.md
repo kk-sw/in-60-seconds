@@ -11,9 +11,9 @@
 
 ### History 2
 
-    - aa
-       - aa1
-    - bb
+- aa
+  - aa1
+- bb
 
 ---
 
