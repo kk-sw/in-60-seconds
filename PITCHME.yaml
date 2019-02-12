@@ -3,9 +3,7 @@
 theme : beige
 layout : top-left
 
-#highlight : mono-blue
-highlight : xcode
-#highlight : purebasic
+highlight : foundation #xcode  purebasic mono-blue
 
 code-line-numbers : true
 
