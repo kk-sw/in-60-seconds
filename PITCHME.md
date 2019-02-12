@@ -87,11 +87,10 @@ PupilId |Mentor |MentorOffice
 4123    |Basil  |216
 
 
-Pupil ID|Less.Id
+PupilId |Less.Id
 --------|------
 1022    |101-07
 1022    |143-01
-1022    |159-02
 4123    |201-01
 ...
 
