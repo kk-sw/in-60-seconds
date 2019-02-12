@@ -3,8 +3,8 @@
 theme : beige
 layout : top-left
 
-# highlight : mono-blue
-highlight : purebasic
+highlight : mono-blue
+#highlight : purebasic
 
 code-line-numbers : true
 
