@@ -36,3 +36,13 @@ Note:
 ```
 
 @[1]
+
+### Code 2
+
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, world!")
+}
