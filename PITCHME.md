@@ -5,6 +5,7 @@
 - What you can achieve
 - *With a little imagination...*
 - And **GitPitch Markdown**
+
 @ulend
 
 Note:
@@ -46,3 +47,8 @@ Note:
  |===================================|
 ```
 
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
