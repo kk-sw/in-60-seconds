@@ -55,9 +55,7 @@ Note:
  |===================================|
 ```
 
-
-First Header | Second Header | Third Header
------------- | --------------|--------------
-Content from cell 1 | Content from cell 2          | 333333333
-Content in 1st      | Content in the second column | 3333333
-
+Hallgató azonosítója|Konzulens|Konzulens szobaszáma|1. tantárgy|2. tantárgy|3. tantárgy
+--------------------|---------|--------------------|-----------|-----------|-----------
+1022                |Belinszki|412                 |101-07      |143-01|159-02
+4123                |Béla     |216                 |201-01      |211-02|214-01
