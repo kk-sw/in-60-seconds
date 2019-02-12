@@ -92,7 +92,10 @@ PupilId |Less.Id
 1022    |101-07
 1022    |143-01
 4123    |201-01
-...
+... | ...
+
+Note:
+- Not all data shown
 
 ---
 
