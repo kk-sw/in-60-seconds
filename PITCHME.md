@@ -30,8 +30,10 @@ Note:
 ```java
   void a = 2;
   @Override
-  protected Class<?> getAPITargetClass (HttpServletRequest request) 
-       throws ClassNotFoundException {
+  protected Class<?> getAPITargetClass 
+     (HttpServletRequest request) 
+         throws ClassNotFoundException {
+         
        if (a) {
         return SLVDimmingAPI.class;}
        }
