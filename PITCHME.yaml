@@ -3,7 +3,7 @@
 theme : beige
 layout : top-left
 
-highlight : ir-black
+highlight : monokai
 
 code-line-numbers : true
 
