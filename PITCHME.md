@@ -32,7 +32,12 @@ Note:
   @Override
   protected Class<?> getAPITargetClass (HttpServletRequest request) 
        throws ClassNotFoundException {
-    return SLVDimmingAPI.class;
+       if (a) {
+        return SLVDimmingAPI.class;}
+       }
+       else {
+          dasad
+       }
   } 
 
 ```
