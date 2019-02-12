@@ -21,6 +21,7 @@
 
 ### Code
 
+```
   SLV.Control.MeaningsHistoryChartsContainer.prototype._addHistoryChart = function (device) {
     var chart = this.charts.filter(function (c) { return c.device === device; });
     if (!chart || chart.length == 0) {
@@ -36,3 +37,4 @@
         return chart[0];
     }
 };
+```
