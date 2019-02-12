@@ -11,8 +11,8 @@
 
 ### History 2
 
-  = aa
-  = bb
+  - aa
+  - bb
 
 ---
 
