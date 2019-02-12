@@ -1,8 +1,4 @@
-# Let's Get Started
-
----
-
-## History
+### History
 
 @ul
 - You will be amazed
@@ -13,47 +9,30 @@
 
 ---
 
-## Add Some Slide Candy
+### History 2
 
-![](assets/img/presentation.png)
-
----
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
-
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
-
----?color=#E58537
-@title[Add A Little Imagination]
-
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
-
-@snap[west span-55]
-@ul[spaced text-white]
 - You will be amazed
 - What you can achieve
 - *With a little imagination...*
 - And **GitPitch Markdown**
-@ulend
-@snapend
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
 
----?image=assets/img/presenter.jpg
+---
 
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
+### Code
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+  SLV.Control.MeaningsHistoryChartsContainer.prototype._addHistoryChart = function (device) {
+    var chart = this.charts.filter(function (c) { return c.device === device; });
+    if (!chart || chart.length == 0) {
+        chart = new SLV.Control.MeaningsHistoryChart(this, device);
+        chart.target.style.top = (this.charts.length * (SLV.Control.MeaningsHistoryChart.CHART_HEIGHT + SLV.Control.MeaningsHistoryChart.CHART_TITLE_HEIGHT)) + 'px';
+        this.chartsContainer.appendChild(chart.target);
+        this.charts.push(chart);
+        chart.initialize();
+        this._syncCursorWithOtherCharts(chart);
+        return chart;
+    }
+    else {
+        return chart[0];
+    }
+};
