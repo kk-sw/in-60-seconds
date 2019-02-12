@@ -3,7 +3,8 @@
 theme : beige
 layout : top-left
 
-highlight : foundation #xcode  purebasic mono-blue
+highlight : github # xcode  
+# foundation purebasic mono-blue
 
 code-line-numbers : true
 
