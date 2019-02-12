@@ -3,10 +3,17 @@
 # theme : beige
 layout : top-left
 
+#
+# Code
+#
 highlight : xcode  
 # foundation purebasic mono-blue
-
 code-line-numbers : true
+
+#
+#
+#
+footnote : " - "
 
 #
 # Published Setting
