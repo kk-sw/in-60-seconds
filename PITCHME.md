@@ -56,8 +56,8 @@ Note:
 ```
 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+First Header | Second Header | Third Header
+------------ | --------------|--------------
+Content from cell 1 | Content from cell 2          | 333333333
+Content in 1st      | Content in the second column | 3333333
 
