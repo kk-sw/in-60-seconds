@@ -4,10 +4,7 @@
 
 ## History
 
-- blah
-- blah
-
-@ul[spaced]
+@ul
 - You will be amazed
 - What you can achieve
 - *With a little imagination...*
