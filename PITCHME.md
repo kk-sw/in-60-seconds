@@ -40,6 +40,8 @@ Note:
 
 ### Table 
 
+@css[text-blue fragment](Hello, World!)
+
   |===================================|
   | AAAAAAAAAAAAA                     |
   |===================================|
