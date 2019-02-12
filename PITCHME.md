@@ -28,6 +28,8 @@ Note:
 
 ```java
 
+  void a = 2;
+    int a = 2;
             @Override
             protected Class<?> getAPITargetClass(HttpServletRequest request) 
                  throws ClassNotFoundException {
