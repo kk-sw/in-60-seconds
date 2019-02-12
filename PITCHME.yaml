@@ -1,6 +1,6 @@
 
 #theme : simple
-theme : beige
+# theme : beige
 layout : top-left
 
 highlight : xcode  
