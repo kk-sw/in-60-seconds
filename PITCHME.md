@@ -7,6 +7,9 @@
 - And **GitPitch Markdown**
 @ulend
 
+Note :
+- Invisible 1
+- Invisible 2
 ---
 
 ### History 2
@@ -22,14 +25,10 @@
 ### Code
 
 ```java
-  SLV.Control.MeaningsHistoryChartsContainer.prototype._addHistoryChart = function (device) {
-    var chart = this.charts.filter(function (c) { return c.device === device; });
-    if (!chart || chart.length == 0) {
-        chart = new SLV.Control.MeaningsHistoryChart(this, device);
-        return chart;
+
+    @Override
+    protected Class<?> getAPITargetClass(HttpServletRequest request) throws ClassNotFoundException {
+        return SLVDimmingAPI.class;
     }
-    else {
-        return chart[0];
-    }
-};
+
 ```
