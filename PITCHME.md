@@ -7,7 +7,7 @@
 - And **GitPitch Markdown**
 @ulend
 
-Note :
+Note:
 
 - Invisible 1
 - Invisible 2
