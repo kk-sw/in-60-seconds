@@ -56,7 +56,19 @@ Note:
 ```
 
 ---
+### Database Normalization
 
+- By Codd  (again)
+- Reduce data redundancy 
+- Improve data integrity
+- Based on formal rules
+- ~10 Normal Forms (NF)
+- Usually data is normalized to ~4NF
+- Denormalization (performance)
+
+Note:
+ https://en.wikipedia.org/wiki/Database_normalization
+ 
 ## Original Data
 
 PupilId|Mentor|MentorOffice|1. less|2. less|3. less
