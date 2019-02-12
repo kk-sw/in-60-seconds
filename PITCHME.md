@@ -26,7 +26,7 @@ Note:
 
 ### Code
 
-@size[10](fsdf sfd sfd sfd sfd sfd ffsdfsdf fsdfsdfsdfsd)
+@size[3](fsdf sfd sfd sfd sfd sfd ffsdfsdf fsdfsdfsdfsd)
 
 ```java
   void a = 2;
