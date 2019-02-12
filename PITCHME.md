@@ -5,22 +5,11 @@
 - What you can achieve
 - *With a little imagination...*
 - And **GitPitch Markdown**
-
 @ulend
-
-Note:
-
-- Invisible 1
-- Invisible 2
 
 ---
 
 ### History 2
-
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
 
 ---
 
@@ -56,7 +45,9 @@ Note:
 ```
 
 ---
+
 ### Database Normalization
+
 
 - By Codd  (again)
 - Reduce data redundancy 
@@ -64,11 +55,15 @@ Note:
 - Based on formal rules
 - ~10 Normal Forms (NF)
 - Usually data is normalized to ~4NF
+@ul
 - Denormalization (performance)
+@ulend
 
 Note:
  https://en.wikipedia.org/wiki/Database_normalization
- 
+
+---
+
 ## Original Data
 
 PupilId|Mentor|MentorOffice|1. less|2. less|3. less
