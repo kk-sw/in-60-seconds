@@ -1,9 +1,12 @@
 
 #theme : simple
 theme : beige
+layout : top-left
 
 highlight : ir-black
-layout : top-left
+
+code-line-numbers : true
+
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
