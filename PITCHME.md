@@ -24,11 +24,8 @@ Note:
 
 ---
 
-@size[3](fsdf sfd sfd sfd sfd sfd ffsdfsdf fsdfsdfsdfsd)
-
 ### Code
 
-@size[3](fsdf sfd sfd sfd sfd sfd ffsdfsdf fsdfsdfsdfsd)
 
 ```java
   void a = 2;
@@ -39,9 +36,7 @@ Note:
   } 
 
 ```
----
-
----?code=a.java&lang=java&color=#1E1F21&title=Simple HTTP Server
+---?code=a.java&lang=java&title=Simple HTTP Server
 
 ---
 
