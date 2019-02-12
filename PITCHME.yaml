@@ -3,7 +3,7 @@
 theme : beige
 layout : top-left
 
-highlight : idea # xcode  
+highlight : xcode  
 # foundation purebasic mono-blue
 
 code-line-numbers : true
