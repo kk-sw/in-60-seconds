@@ -1,6 +1,8 @@
+@snap[north-west]
 # Database Concepts 
 ## A Historical Perspective
 ### 2019
+@snapend
 
 ---
 
