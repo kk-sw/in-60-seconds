@@ -1,8 +1,11 @@
-@snap[midpoint]
+@snap[north]
 # Database Concepts 
-## A Historical Perspective
-### 2019
 @snapend
+
+@snap[midpoint]
+## A Historical Perspective
+@snapend
+### 2019
 
 ---
 
