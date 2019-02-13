@@ -13,12 +13,15 @@
 - SQL
  - Column oriented
 
-- NoSQL
+- NoSQL 1
   - XML Database
   - Object Store
+  
+- NoSQL 2  
   - Key-Value
   - Document
   - Graph
+  - Wide-column stores 
   
 - NewSQL  
 
