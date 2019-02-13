@@ -1,20 +1,32 @@
-### History
-
-@ul
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
+# Database Concepts 
+## A Historical Perspective
+### 2019
 
 ---
 
 ### History 2
 
-- aa
-  - aa1
-- bb
+- No database
+- Hierarchical 
+- Navigational
 
+- SQL
+ - Column oriented
+
+- NoSQL
+  - XML Database
+  - Object Store
+  - Key-Value
+  - Document
+  - Graph
+  
+- NewSQL  
+
+- Future
+ - MAU
+ - RAM based
+ - SSD
+ - No disk base
 ---
 
 ### Code
