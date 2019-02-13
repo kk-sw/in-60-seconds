@@ -1,4 +1,4 @@
-@snap[north-west]
+@snap[midpoint]
 # Database Concepts 
 ## A Historical Perspective
 ### 2019
