@@ -6,9 +6,12 @@
 
 #### Karoly Kalman
 
-**Tech Lead**
-**Notifier Team**
-**kkalman@rim.com**
+<br>
+*Tech Lead*
+<br>
+*Notifier Team*
+<br>
+kklman@rim.com
 
 @snapent
 
