@@ -1,7 +1,23 @@
 
-@snap[midpoint text-center]
+---?image=https://static1.squarespace.com/static/56f1cbd460b5e9fe82c08650/t/5801147f37c581992d7ec852/1476465792347&position=left&size=60% 60%
 
-Real Time Messaging in Distributed Systems
+#### @size[0.6em](Get ready for some)
+
+<br>
+
+## @color[#e49436](Git)Pitch
+#### Presentation @fa[magic] @color[#e49436](Magic)
+
+
+
+@snapend
+
+![Arch](https://static1.squarespace.com/static/56f1cbd460b5e9fe82c08650/t/5801147f37c581992d7ec852/1476465792347/)
+
+---
+
+
+## Real Time Messaging in Distributed Systems
 
 -- Karoly Kalman 
 -- Tech Lead 
@@ -9,8 +25,4 @@ Real Time Messaging in Distributed Systems
 
 kkalman@rim.com
 
-
-
-@snapend
-
-![Arch](https://static1.squarespace.com/static/56f1cbd460b5e9fe82c08650/t/5801147f37c581992d7ec852/1476465792347/)
+https://gitpitch.com/kk-sw/in-60-seconds#/
