@@ -5,9 +5,12 @@
 **Real Time Messaging in Distributed Systems**
 <br>
 **Karoly Kalman**
+
 <br>
 @size[0.4em](Tech Lead)
+
 @size[0.4em](Notifier Team)
+
 @size[0.3em](kkalman@rim.com)
 
 @snapend
