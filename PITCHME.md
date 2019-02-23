@@ -2,9 +2,9 @@
 
 
 @snap[midpoint text-right]
-### Real Time Messaging in Distributed Systems
-
-#### Karoly Kalman
+**Real Time Messaging in Distributed Systems**
+<br>
+**Karoly Kalman**
 
 <br>
 *Tech Lead*
