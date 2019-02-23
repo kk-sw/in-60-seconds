@@ -2,7 +2,7 @@
 
 
 @snap[midpoint text-right]
-**Real Time Messaging in Distributed Systems**
+** Messaging in Distributed Systems**
 
 <br>
 
