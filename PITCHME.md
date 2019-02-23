@@ -11,7 +11,7 @@
 <br>
 *Notifier Team*
 <br>
-@size[3.5em](kkalman@rim.com)
+@size[0.5em](kkalman@rim.com)
 
 @snapent
 
