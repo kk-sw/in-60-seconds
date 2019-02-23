@@ -5,15 +5,12 @@
 **Real Time Messaging in Distributed Systems**
 <br>
 **Karoly Kalman**
+<br>
+@size[0.4em](Tech Lead)
+@size[0.4em](Notifier Team)
+@size[0.3em](kkalman@rim.com)
 
-<br>
-*Tech Lead*
-<br>
-*Notifier Team*
-<br>
-@size[0.5em](kkalman@rim.com)
-
-@snapent
+@snapend
 
 ---
 https://gitpitch.com/kk-sw/in-60-seconds/master?grs=github&t=simple#/
