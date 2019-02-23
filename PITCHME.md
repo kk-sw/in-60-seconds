@@ -6,7 +6,7 @@
 
 <br>
 
-**Karoly Kalman**
+@size[0.7em](**Karoly Kalman**)
 
 <br>
 @size[0.4em](Tech Lead)
