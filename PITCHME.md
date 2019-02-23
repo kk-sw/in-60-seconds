@@ -2,9 +2,10 @@
 
 
 @snap[midpoint text-right]
-##### Real Time Messaging in Distributed Systems
+#### Real Time Messaging in Distributed Systems
 
-###### Karoly Kalman
+#### Karoly Kalman
+
 **Tech Lead**
 **Notifier Team**
 **kkalman@rim.com**
