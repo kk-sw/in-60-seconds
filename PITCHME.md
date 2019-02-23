@@ -9,9 +9,9 @@
 @size[0.7em](**Karoly Kalman**)
 
 <br>
-@size[0.4em](Tech Lead)
+@size[0.6em](Tech Lead)
 <br>
-@size[0.4em](Notifier Team)
+@size[0.5em](Notifier Team)
 <br>
 @size[0.3em](kkalman@rim.com)
 
