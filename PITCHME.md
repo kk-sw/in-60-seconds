@@ -18,4 +18,80 @@
 @snapend
 
 ---
-https://gitpitch.com/kk-sw/in-60-seconds/master?grs=github&t=simple#/
+
+Note:
+- https://gitpitch.com/kk-sw/in-60-seconds/master?grs=github&t=simple#/
+  
+  @snap[midpoint text-center]
+
+---
+
+
+## Database Concepts
+####  A Historical Perspective
+
+@snapend
+
+Note:
+- Basic concepts - what's what
+- Overview + common use cases 95%
+- **No** database expert
+- Personal bias
+
+---
+
+### Historical Databases (No Database)
+
+- All data is stored in memory
+- It's a start
+
+✔ Fast
+
+✔ Store anything in any format
+
+✖ No persistent and durable storage
+
+---
+
+### Historical Databases (Flat File)
+
+  ```text
+  Ted Scott ▫ $100 ▫ Apple ☷ Ai Joe ▫ $900 ▫ Peach ☷
+  ◺      ◿ │              │
+    field   │              │
+    value   │              └─ record separator
+            └─ field separator
+  ```
+
+✔ Persistent
+
+✔ Store anything (records can be different)
+
+✖ Low-level access, programmer needed
+
+✖ Complex queries are hard and slow
+
+Note:
+ - Still used for small data sets in some domains
+ - Explain indexing
+
+---
+
+### Historical Databases (Hierarchical)
+
+  ```text
+         CTO
+        ╱   ╲
+      Head1 Head2
+     ╱    ╲
+   Mngr1  Mngr2
+  ```
+
+✔ Defined structure
+
+✔ Faster than flat file
+
+✖ Navigation through the hierarchy only (up-down)
+
+✖ "Programmer perspective" needed
+
